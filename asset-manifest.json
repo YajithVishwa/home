@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.d11511b8.chunk.css",
+    "main.js": "/home/static/js/main.e165a2bd.chunk.js",
+    "main.js.map": "/home/static/js/main.e165a2bd.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.02298bcf.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.02298bcf.js.map",
+    "static/js/2.ea6bb60a.chunk.js": "/home/static/js/2.ea6bb60a.chunk.js",
+    "static/js/2.ea6bb60a.chunk.js.map": "/home/static/js/2.ea6bb60a.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.8ff121ed782765ca247e6434ea0f3774.js": "/home/precache-manifest.8ff121ed782765ca247e6434ea0f3774.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.d11511b8.chunk.css.map": "/home/static/css/main.d11511b8.chunk.css.map",
+    "static/js/2.ea6bb60a.chunk.js.LICENSE.txt": "/home/static/js/2.ea6bb60a.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/home/static/media/image.1739cb55.png",
+    "static/media/jakstech.png": "/home/static/media/jakstech.37660bdb.png",
+    "static/media/resume.pdf": "/home/static/media/resume.fade4759.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02298bcf.js",
+    "static/js/2.ea6bb60a.chunk.js",
+    "static/css/main.d11511b8.chunk.css",
+    "static/js/main.e165a2bd.chunk.js"
+  ]
+}
